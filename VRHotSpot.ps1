@@ -1,5 +1,5 @@
-$wifiInterfaceName="WiFi" # run "netsh wlan show interfaces" to get list of your interfaces
-$wifiProfile="McAronNet_5G" # usually the same as your network SSID. To get list of profiles run "netsh wlan show profiles"
+$wifiInterfaceName="Wi-Fi 2" # run "netsh wlan show interfaces" to get list of your interfaces
+$wifiProfile="WTC@Home-f5860p" # usually the same as your network SSID. To get list of profiles run "netsh wlan show profiles"
 
 
 
